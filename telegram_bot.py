@@ -74,7 +74,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         "Commands:\n"
         "  /start  – Show this message\n"
         "  /help   – How to use the bot"
-        "                        -By Hacker-xy3iron
+        "                        -By Hacker-xy3iron" 
     )
 
 async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
